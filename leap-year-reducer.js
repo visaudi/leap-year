@@ -1,4 +1,4 @@
-module.exports.checkLeapYear = function (state = {isLeap: true}, action) {
+module.exports.checkLeapYear = function (state = {isLeap: false}, action) {
 
     return state;
 };
